@@ -1,0 +1,9 @@
+opencv-python
+numpy
+boxmot
+pathlib
+ultralytics
+psycopg2
+pandas
+dash
+plotly_express
